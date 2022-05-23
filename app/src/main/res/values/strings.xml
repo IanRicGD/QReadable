@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QReadable</string>
+    <string name="escanea_tu_codigo_qr">Escanea tu código QR</string>
+    <string name="img_mainactivity">img_mainActivity</string>
+    <string name="qreadable">QReadable</string>
+    <string name="creador">Creador: Ian Ricardo García Delgado</string>
+    <string name="version">Version 1.0</string>
+</resources>
